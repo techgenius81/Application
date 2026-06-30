@@ -1,1 +1,1 @@
-https://github.com/techgenius81/Application/blob/main/FuseMachineController.lua
+-> [Game](https://www.roblox.com/games/98195927746785/Brainrot-RNG) <-
